@@ -1,1 +1,1 @@
-console.log("This is a  script for PF-1234");
+console.log("This is a  solution script for PF-1234");
