@@ -1,0 +1,29 @@
+DF#: PL-38367
+Title: [DF]
+
+Summary:
+-----------
+Data fix to make  entry into MTLSApplication cluster root for Buyer and Sourcing application in ALL DC's.
+
+[Datacenters]:
+All datacenters
+
+[Realm]:
+System
+
+[Business Impact]:
+This will make entry of default Application's i.e. Buyer and Sourcing in MTLSApplication clusterroot.
+
+Solution:
+--------
+Execute the DF according to below steps.
+
+
+(Steps for OPS)
+1. Go to each datacenter's buyer and S4 Inspector to any community (like C1). US, Prod3, EU, RU, CN, UAE, KSA, AU, JP
+2. Choose the "System" realm and press Apply.
+3. Click the JavaScript link in the collection of links at the top of the page.
+4. Paste the contents of the PL-38367_JavaScript.txt file into the JavaScript text box.
+5. Click Run.
+6. Paste the output into a comment on the HOA ticket in JIRA.
+7. Repeat for all datacenters.
