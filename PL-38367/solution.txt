@@ -3,7 +3,7 @@ Title: [DF]
 
 Summary:
 -----------
-Uday's Data fix to make entry into MTLSApplication cluster root for Buyer and Sourcing application in ALL DC's.
+Data fix to make entry into MTLSApplication cluster root for Buyer and Sourcing application in ALL DC's.
 
 [Datacenters]:
 All datacenters
