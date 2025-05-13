@@ -1,5 +1,5 @@
 /*
-This is Uday's Data fix to make entry into MTLSApplication cluster root for Buyer and S4 application in ALL DC's.
+Data fix to make entry into MTLSApplication cluster root for Buyer and S4 application in ALL DC's.
 */
 
 var BaseSession = ariba.base.core.BaseSession;  
