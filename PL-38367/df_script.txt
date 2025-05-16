@@ -3,7 +3,7 @@ Title: [DF]
 
 Summary:
 -----------
-Data fix to make  entry into MTLSApplication cluster root for Buyer and Sourcing application in ALL DC's.
+Uday' Data fix to make  entry into MTLSApplication cluster root for Buyer and Sourcing application in ALL DC's.
 
 [Datacenters]:
 All datacenters
@@ -27,4 +27,3 @@ Execute the DF according to below steps.
 5. Click Run.
 6. Paste the output into a comment on the HOA ticket in JIRA.
 7. Repeat for all datacenters.
-
